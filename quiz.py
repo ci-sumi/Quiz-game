@@ -13,4 +13,16 @@ else:
         print("Correct")
     else:
         print("its in correct")
+    answer =int(input('How many players are there in a soccer team on the field?'))
+    if(answer==11):
+        print("Correct")
+    else:
+        print("its in correct")
+        
+    answer =input('What does CPU stand for in computing?')
+    if(answer=="Central Processing Unit"):
+        print("Correct")
+    else:
+        print("its in correct")
+    
     
