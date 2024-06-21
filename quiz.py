@@ -8,4 +8,9 @@ else:
         print("Correct")
     else:
         print("its in correct")
+    answer =input('Who wrote the play "Romeo and Juliet":?').title()
+    if(answer=="William Shakespeare"):
+        print("Correct")
+    else:
+        print("its in correct")
     
